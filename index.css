@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white;
+    font-family: "Karla", sans-serif;
+}
+#hero {
+    margin-left: 20px;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #273549;
+    width: 211px;
+    height: 39px;
+    border-radius: 5px;
+}
+#password-sec {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+span {
+    color: #4ADF86;
+}
+button {
+    color: white;
+    padding: 9px 16px;
+    background-color: #4ADF86;
+    margin-top: 30px;
+    border: 0px;
+    border-radius: 8px;
+}
+h2 {
+    color: lightgray;
+}
